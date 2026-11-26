@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+.venv/
+.test-deps/
+output/previews/
+data/configuracoes.json
+
+# Arquivos gerados e materiais auxiliares de desenvolvimento
+output/
+artifacts/
+build/
+dist/
+tmp/
+.idea/
+.vscode/
+*.zip
+*.mp4
+*.spec
+data/ranking.json
+assets/**/originais/
+assets/**/preparacao*.txt
+assets/**/preparacao*.json
+assets/images/player/referencia/
+tools/testar_personagem.py
+tools/montar_teaser*.py

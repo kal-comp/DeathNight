@@ -1,0 +1,27 @@
+DEATH NIGHT
+
+Projeto e integração
+Kalebe Barreto
+Laboratório de Programação de Jogos - Universidade Federal Fluminense
+
+Biblioteca
+Power PPlay 2.1, obtida no site da UFF.
+Licença: PPlay/LICENSE.
+
+Sprites de terceiros
+TheLazyStone - Post-Apocalypse Pixel Art Asset Pack.
+https://thelazystone.itch.io/post-apocalypse-pixel-art-asset-pack
+Condições de uso: assets/LICENSE_ASSETS.txt.
+
+Fonte
+Bebas Neue - Dharma Type.
+Licença SIL Open Font License: assets/fonts/OFL.txt.
+
+Recursos complementares
+Parte das artes e trilhas utiliza IA generativa. A produção e a programação
+também tiveram apoio de ferramentas de assistência. Os registros de preparação
+dos recursos são preservados no material de desenvolvimento.
+
+As declarações de origem exigidas na entrega acadêmica e nas plataformas
+de publicação devem refletir esse uso. Este arquivo não substitui as licenças
+individuais dos recursos.

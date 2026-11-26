@@ -1,0 +1,23 @@
+DEATH NIGHT - NOITE EM ALERTA
+
+RASCUNHO REJEITADO PELO AUTOR: a trilha está desativada por padrão. Será
+substituída por um arquivo escolhido por ele em assets/sounds/importados/.
+Os efeitos desta pasta são provisórios até a substituição dos respectivos sons.
+
+Trilha de ação original: 60 segundos, 128 BPM, WAV estéreo, 44.100 Hz, 16 bits.
+Sintetizadores, baixo pulsante, bateria eletrônica e arpejos. Reprodução em loop
+por PPlay.sound.Music, mais baixa nos menus e pausada junto com o combate.
+
+22 efeitos originais: pistola, escopeta, três vozes de zumbi, chefe, morte de
+zumbi, impactos, parede, arma vazia, troca, cura, munição, benefício, fusível,
+painel, portão, nível, melhoria, onda, vitória e derrota.
+
+Todos os arquivos desta pasta foram sintetizados por código para este projeto,
+sem gravações ou amostras de terceiros. As vozes são efeitos sintéticos,
+adequados como primeira versão estilizada, não gravações de atores.
+Fonte e reconstrução: tools/gerar_audio_acao.py (NumPy apenas offline).
+O jogo precisa somente do PPlay/Pygame para reproduzir os WAVs prontos.
+
+Os efeitos antigos da pasta superior permanecem preservados. O dano e o clique
+originais ainda são usados. Volume geral nas opções; música fica abaixo dos
+efeitos. Zumbis só vocalizam próximos e com intervalo para não saturar o som.

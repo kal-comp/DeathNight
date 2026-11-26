@@ -1,0 +1,47 @@
+DEATH NIGHT - ÁUDIOS PARA PROCURAR E ENVIAR
+
+Efeitos: prefira WAV PCM, 16 bits, 44.100 Hz. OGG também é aceito.
+Música: OGG, MP3 ou WAV. Não precisa converter antes de enviar.
+Envie o link de origem e a licença de cada arquivo junto dos áudios.
+Pode organizar tudo em um ZIP. Os nomes abaixo são sugestões para facilitar.
+
+PRIMEIRA PRIORIDADE (já permitem substituir a identidade sonora principal)
+1. musica.ogg / musica.mp3 / musica.wav: faixa instrumental de ação e tensão,
+   que você goste e que funcione repetindo. Uma faixa basta inicialmente.
+2. pistola.wav: disparo curto de pistola.
+3. escopeta.wav: disparo de escopeta, distinto e mais encorpado.
+4. zumbi_1.wav, zumbi_2.wav, zumbi_3.wav: dois ou três gemidos/rosnados curtos.
+5. chefe.wav: um rugido ou vocalização mais grave para o boss.
+
+SEGUNDA PRIORIDADE
+6. impacto.wav: acerto em monstro.
+7. morte_zumbi.wav: monstro derrotado.
+8. dano.wav: personagem recebendo dano.
+9. coleta.wav: som curto de coleta; pode servir de base para vários itens.
+10. portao.wav: metal deslizando/portão abrindo.
+
+ACABAMENTO, SE ENCONTRAR COM FACILIDADE
+troca.wav: manuseio/troca de arma.
+vazio.wav: clique de arma sem munição.
+parede.wav: projétil atingindo parede/metal.
+fusivel.wav: encaixe/coleta de componente elétrico.
+painel.wav: painel elétrico sendo energizado.
+nivel.wav: subida de nível.
+melhoria.wav: escolha de melhoria.
+onda.wav: início de onda.
+vitoria.wav e derrota.wav: vinhetas curtas de resultado.
+clique.wav: navegação de menu.
+cura.wav, municao.wav e beneficio.wav: coletas específicas opcionais.
+
+O jogo dá prioridade a WAV/OGG desta pasta sobre os efeitos provisórios de mesmo
+nome. pistola.wav também atende ao evento tiro; escopeta.wav ao tiro_escopeta.
+As trilhas do autor já estão em assets/music/menu.ogg e partida.ogg.
+musica.ogg, musica.mp3 ou musica.wav nesta pasta substitui a faixa da partida;
+menu.ogg, menu.mp3 ou menu.wav substitui a faixa dos menus (prioridade nessa ordem).
+A trilha sintética anterior está desativada e preservada como rascunho.
+Nas opções há volumes independentes para música e efeitos.
+Os arquivos ainda não enviados mantêm os efeitos provisórios existentes.
+
+Formatos verificados na biblioteca local PPlay.sound e documentação Pygame:
+https://www.pygame.org/docs/ref/mixer.html#pygame.mixer.Sound
+https://www.pygame.org/docs/ref/music.html

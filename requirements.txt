@@ -1,0 +1,2 @@
+pygame>=2.1.2
+# Power PPlay 2.1 acompanha o projeto na pasta PPlay/.
